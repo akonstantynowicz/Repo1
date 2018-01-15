@@ -1,3 +1,6 @@
 readme
 .gitignore
 moj_program.c
+Są śledzone, dlatego że zostały zmodyfikowane lub zostały stworzone i nie 
+były commitowane a zostaly dodane do śledzenia komendą add .
+Kropka oznacza wszystkie pliki stworzone/zmodyfikowane.
